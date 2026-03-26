@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(g++:*)",
+      "Bash(cmake:*)",
+      "Bash(echo:*)",
+      "Bash(where:*)",
+      "Bash(pacman:*)",
+      "Bash(where code:*)",
+      "Bash(winget:*)",
+      "Bash(choco:*)",
+      "Bash(curl:*)",
+      "Bash(gcc:*)",
+      "Bash(\"/c/mingw64/bin/g++.exe\":*)",
+      "Bash(\"/c/mingw64/bin/cmake.exe\":*)",
+      "Bash(mkdir:*)",
+      "Bash(/c/mingw64/bin/g++.exe:*)",
+      "Bash(./memorydb.exe:*)",
+      "Bash(ls:*)",
+      "Bash(du:*)",
+      "Bash(./test_table.exe:*)",
+      "Bash(./test_storage.exe:*)",
+      "Bash(./test_parser.exe:*)",
+      "Bash(./test_database.exe:*)",
+      "Bash(./test_encryption.exe:*)",
+      "Bash(./test_all.exe:*)",
+      "Bash(rm:*)",
+      "Bash(./build/test_all.exe:*)",
+      "Bash(./build/memorydb.exe:*)",
+      "Bash(/e/Claudecodeproject/shujuku/build/test_all.exe:*)",
+      "Bash(pkill:*)",
+      "Bash(/e/Claudecodeproject/shujuku/build/test_api.exe:*)"
+    ]
+  }
+}
